@@ -217,3 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .venv/
+
+# Local-only data (too large for GitHub)
+Project/Data/
+.DS_Store
